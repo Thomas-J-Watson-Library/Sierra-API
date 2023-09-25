@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # File:   cloistershold.py
-# Author: Michael Cummings, Assistant Museam Libarian, Systems and Information Technology 
+# Author: Michael Cummings, Assistant Museum Libarian, Systems and Information Technology 
 #         Thomas J. Watson Libary, The Metropolitan Museam of Art 
 # Editor: Halima Rahman, Intern
 # Gist:   New holds are any found where the hold id is greater than the
